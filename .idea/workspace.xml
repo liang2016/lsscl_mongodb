@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="1aeaa855-dd80-497d-a192-639c6808e733" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/audience" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/commons-codec-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/connection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/device" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/push/gson-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/jsp-api.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/mongo-java-driver-2.12.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/notification" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/push" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/report" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/servlet-api.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/push/slf4j-api-1.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/push/slf4j-log4j12-1.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/utils" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/APIConnectionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/APIRequestException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/device/AliasDeviceListResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/notification/AndroidNotification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/AndroidPushBroadcastMessageSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/AndroidPushMessageSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/AndroidPushNotificationSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/AndroidPushTagMessageSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/audience/Audience.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/audience/AudienceTarget.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/audience/AudienceType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/utils/Base64.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/BaseResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/BooleanResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/DefaultResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/device/DeviceClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/DeviceType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/connection/HttpProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/connection/IHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/IRateLimiting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/notification/IosNotification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/IosPushBroadcastNotificationSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/IosPushNotificationSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/JPushClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/report/MessagesResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/connection/NativeHttpClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/notification/Notification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/utils/Nullable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/Options.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/Platform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/notification/PlatformNotification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/utils/Preconditions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/PushClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/PushModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/PushPayload.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/PushResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src_test/baiduns/QueryBindListSample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/report/ReceivedsResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/report/ReportClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/resp/ResponseWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/ServiceHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/utils/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/device/TagAliasResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/device/TagListResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/common/TimeUnit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/report/UsersResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/model/notification/WinphoneNotification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lsscl(SqlServer).iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/device/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/push/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/jpush/api/report/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/WEB-INF/lib/modbus4J.jar" afterPath="$PROJECT_DIR$/war/WEB-INF/lib/modbus4J.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/acp/ACPDao.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/acp/ACPDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/util/AcpConfig.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/util/AcpConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/util/ApnsUtil.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/util/ApnsUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/AppDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/AppDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src_test/test/AppDaoTest.java" afterPath="$PROJECT_DIR$/src_test/test/AppDaoTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/AppOldDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/AppOldDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/service/AppService.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/service/AppService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/servlet/AppServlet.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/servlet/AppServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/bacnet/BACnetIPDataSourceRT.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/bacnet/BACnetIPDataSourceRT.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/util/BaiduNSUtil.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/util/BaiduNSUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/BaseDao.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/BaseDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/BasePooledAccess.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/BasePooledAccess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/Common.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/Common.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/CompressorDetailsDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/CompressorDetailsDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/bean/CompressorDetailsMsgBody.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/bean/CompressorDetailsMsgBody.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/DataPointDao.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/DataPointDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src_test/test/DataPointDaoTest.java" afterPath="$PROJECT_DIR$/src_test/test/DataPointDaoTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/maint/DataPurge.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/maint/DataPurge.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/DataSourceDao.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/DataSourceDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src_test/test/DataSourceDaoTest.java" afterPath="$PROJECT_DIR$/src_test/test/DataSourceDaoTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/GetAllScopesDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/GetAllScopesDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src_test/test/HttpTest.java" afterPath="$PROJECT_DIR$/src_test/test/HttpTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/util/HttpUtil.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/util/HttpUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataImage/IdPointValueTime.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataImage/IdPointValueTime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/web/mvc/controller/LoginController.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/web/mvc/controller/LoginController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/bean/LoginMsgBody.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/bean/LoginMsgBody.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/MSSQLAccess.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/MSSQLAccess.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/MobileLoginDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/MobileLoginDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/modbus/ModbusDataSource.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/modbus/ModbusDataSource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/util/timeout/ModelTimeoutTask.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/util/timeout/ModelTimeoutTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/vo/permission/Permissions.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/vo/permission/Permissions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/persistent/PersistentDataSourceRT.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/persistent/PersistentDataSourceRT.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/publish/persistent/PersistentSenderRT.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/publish/persistent/PersistentSenderRT.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/PointValueDao.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/PointValueDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/PointsWithin24HDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/PointsWithin24HDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/PollingDataSource.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/dataSource/PollingDataSource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/bean/PushEvents.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/bean/PushEvents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/rt/RuntimeManager.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/rt/RuntimeManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeAlarmListDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeAlarmListDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/bean/ScopeEvent.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/bean/ScopeEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeIndexDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeIndexDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/bean/ScopeIndexMsgBody.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/bean/ScopeIndexMsgBody.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeListDao.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeListDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeRowMapper.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/dao/impl/ScopeRowMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src_test/test/StringUtilTest.java" afterPath="$PROJECT_DIR$/src_test/test/StringUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/change/TableHelper.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/change/TableHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/util/timeout/TimeoutTask.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/util/timeout/TimeoutTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/vo/User.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/vo/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/com/serotonin/mango/db/dao/UserDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/acpConfig.properties" afterPath="$PROJECT_DIR$/src/acpConfig.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/app/appConfig.xml" afterPath="$PROJECT_DIR$/war/app/appConfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.properties" afterPath="$PROJECT_DIR$/build.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/env.properties" afterPath="$PROJECT_DIR$/src/env.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/log4j.xml" afterPath="$PROJECT_DIR$/src/log4j.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/messages_zh.properties" afterPath="$PROJECT_DIR$/src/messages_zh.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/war/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="D:\project\lsscl(SqlServer)\src\com\lsscl\app\bean\PointsWithin24HMsgBody.java" afterPath="$PROJECT_DIR$/src/com/lsscl/app/bean/PointsWithin24MsgBody.java" />
+    </list>
+    <ignored path="lsscl(SqlServer).iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/build/WEB-INF/classes/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lsscl(SqlServer)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src_test/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSourceVO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/serotonin/mango/vo/dataSource/DataSourceVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33273056">
+              <caret line="436" column="83" selection-start-line="436" selection-start-column="83" selection-end-line="436" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lsscl(SqlServer)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lsscl(SqlServer)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lsscl(SqlServer)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lsscl(SqlServer)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lsscl(SqlServer)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="http.proxy" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration default="false" name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lsscl" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\project\lsscl(SqlServer)" />
+          <option name="myCopyRoot" value="D:\project\lsscl(SqlServer)" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\project\lsscl(SqlServer)" />
+          <option name="myCopyRoot" value="D:\project\lsscl(SqlServer)\war\WEB-INF\lib\push" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\project\lsscl(SqlServer)" />
+          <option name="myCopyRoot" value="D:\project\lsscl(SqlServer)" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\project\lsscl(SqlServer)" />
+          <option name="myCopyRoot" value="D:\project\lsscl(SqlServer)\war\WEB-INF\lib\push" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aeaa855-dd80-497d-a192-639c6808e733" name="Default" comment="" />
+      <created>1431573560191</created>
+      <option name="number" value="Default" />
+      <updated>1431573560191</updated>
+      <workItem from="1431573588314" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="186000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32949308" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src_test/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src_test/test/ModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36708862">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/serotonin/mango/vo/dataSource/DataSourceVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33273056">
+          <caret line="436" column="83" selection-start-line="436" selection-start-column="83" selection-end-line="436" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

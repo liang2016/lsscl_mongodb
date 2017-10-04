@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-logging.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/derby.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/derbytools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/spinwave.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/RXTXcomm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jcommon-1.0.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jfreechart-1.0.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/mbus4j-core-0.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/openv4j-core-0.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/slf4j-api-1.5.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/mbus4j-master-0.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/viconics.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/dnp3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jstl-api-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/opc-driver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/org.openscada.opc.lib-0.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/sqljdbc4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-codec-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-httpclient-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/EWSAPI-1.1.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jcifs-1.3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/commons-lang3-3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/modbus4J.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/qrcode/QRCode.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/http/httpclient-4.2.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/http/httpcore-4.2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apns/bcprov-jdk16-145-1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apns/javapns-jdk16-163.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apns/log4j-1.2.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/apns/commons-lang-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/json-annotation-0.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/commons-beanutils-1.8.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/commons-collections-3.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/ezmorph-1.0.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json/json-lib-2.4-jdk15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/bccs-api-lib-1.1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/mongo-java-driver-2.12.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-pool.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-dbcp-jdbc4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jaxrpc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/axis.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/wsdl4j-1.5.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-discovery-0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/OneWireAPI.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/seroUtils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/bacnet4J.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/annotations-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/axis-ant.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/catalina-ant.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/catalina-ha.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/catalina-tribes.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/catalina.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/ecj-4.2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/el-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jasper-el.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jsp-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/servlet-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-coyote.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-dbcp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-i18n-es.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-i18n-fr.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-i18n-ja.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-jdbc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/tomcat-util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-fileupload.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-io.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/crowd-integration-client-2.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/dwr.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/EWSAPI-1.1.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/freemarker.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/j-interop-2.06.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/j-interopdeps-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jdom-1.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/joda-time-1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/json-lib-2.3-jdk15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jstl-impl-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jstl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/log4j-1.2.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/openscada-utils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/org.openscada.opc.dcom-0.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/slf4j-log4j12-1.5.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/SNMP4J.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/spring-webmvc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/spring.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/standard.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/taglibs-log.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/xfire-aegis-1.2.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/xfire-core-1.2.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-codec-1.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-lang3-3.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/fluent-hc-4.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/httpclient-4.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/httpclient-cache-4.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/httpcore-4.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/httpmime-4.3.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jcifs-1.3.15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/modbus4J.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/mysql-connector-java-3.1.8-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/RXTXcomm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/junit4.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/jpush/gson-2.2.4.jar!/" />
+    <libelement value="file://D:\project\lsscl(SqlServer)\apns\com\notnoop\jackson-core-2.5.0.jar" />
+    <libelement value="file://D:\project\lsscl(SqlServer)\apns\com\notnoop\jackson-databind-2.0.5.jar" />
+    <libelement value="file://D:\project\lsscl(SqlServer)\apns\com\notnoop\jackson-annotations-2.4.3.jar" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/push/gson-2.2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/war/WEB-INF/lib/push/JavaPNS_2.2.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src_gen" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src_test" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/apns" expected_position="3" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/build/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src_gen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apns" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Codec" level="project" />
+    <orderEntry type="library" name="Freemarker" level="project" />
+    <orderEntry type="library" name="Joda" level="project" />
+    <orderEntry type="library" name="Spring Framework" level="project" />
+    <orderEntry type="library" name="DWR 2.0.1" level="project" />
+    <orderEntry type="library" name="SNMP4J" level="project" />
+    <orderEntry type="library" name="Servlet &amp; JSP" level="project" />
+    <orderEntry type="library" name="Log4J" level="project" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="commons-logging.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/JavaApis/commons-logging-1.1.1-src/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derby.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/derby.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbytools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/derbytools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spinwave.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/spinwave.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="RXTXcomm.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/RXTXcomm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommon-1.0.14.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jcommon-1.0.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/JavaApis/jfreechart/jcommon-1.0.14/source" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfreechart-1.0.11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jfreechart-1.0.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/JavaApis/jfreechart/jfreechart-1.0.11/source" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mbus4j-core-0.1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/mbus4j-core-0.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="openv4j-core-0.1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/openv4j-core-0.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.5.11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/slf4j-api-1.5.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mbus4j-master-0.1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/mbus4j-master-0.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Desktop/modbus/modbus4J-src.zip" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="viconics.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/viconics.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///Viconics/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dnp3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/dnp3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl-api-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jstl-api-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opc-driver.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/opc-driver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.openscada.opc.lib-0.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/org.openscada.opc.lib-0.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sqljdbc4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/sqljdbc4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-codec-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-httpclient-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="EWSAPI-1.1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/EWSAPI-1.1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcifs-1.3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jcifs-1.3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/commons-lang3-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="modbus4J.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/modbus4J.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Desktop/modbus/modbus4J-src.zip" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="QRCode.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/qrcode/QRCode.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.2.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/http/httpclient-4.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/http/httpcore-4.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk16-145-1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/apns/bcprov-jdk16-145-1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.14.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/apns/log4j-1.2.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/apns/commons-lang-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-annotation-0.1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/json-annotation-0.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils-1.8.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/commons-beanutils-1.8.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/commons-collections-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ezmorph-1.0.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/ezmorph-1.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-lib-2.4-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json/json-lib-2.4-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bccs-api-lib-1.1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/bccs-api-lib-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mongo-java-driver-2.12.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mongo-java-driver-2.12.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit4.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/junit4.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/push/gson-2.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JavaPNS_2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/push/JavaPNS_2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Standard Taglib" level="project" />
+    <orderEntry type="module-library">
+      <library name="mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-pool.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.7-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp-jdbc4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-dbcp-jdbc4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxrpc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jaxrpc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/axis.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wsdl4j-1.5.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/wsdl4j-1.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-discovery-0.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-discovery-0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="HttpClient 3.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="OneWireAPI.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/OneWireAPI.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/JavaApis/OneWire/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="seroUtils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/seroUtils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/code/modbus/jar/seroUtils.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bacnet4J.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/bacnet4J.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file:///BACnet4J/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Modbus4J" level="project" />
+    <orderEntry type="module-library">
+      <library name="annotations-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/annotations-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="axis-ant.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/axis-ant.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="catalina-ant.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/catalina-ant.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="catalina-ha.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/catalina-ha.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="catalina-tribes.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/catalina-tribes.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="catalina.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/catalina.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ecj-4.2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/ecj-4.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="el-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/el-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasper-el.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jasper-el.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsp-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jsp-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-coyote.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-coyote.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-dbcp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-dbcp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-i18n-es.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-i18n-es.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-i18n-fr.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-i18n-fr.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-i18n-ja.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-i18n-ja.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-jdbc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-jdbc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tomcat-util.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/tomcat-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/commons-beanutils-1.8.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-fileupload.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="crowd-integration-client-2.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/crowd-integration-client-2.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dwr.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/dwr.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/EWSAPI-1.1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/EWSAPI-1.1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/ezmorph-1.0.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="freemarker.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/freemarker.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="j-interop-2.06.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/j-interop-2.06.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="j-interopdeps-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/j-interopdeps-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom-1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jdom-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="joda-time-1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/joda-time-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-lib-2.3-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/json-lib-2.3-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl-impl-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jstl-impl-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jstl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/log4j-1.2.14.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/log4j-1.2.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="openscada-utils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/openscada-utils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.openscada.opc.dcom-0.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/org.openscada.opc.dcom-0.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.5.11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/slf4j-log4j12-1.5.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="SNMP4J.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/SNMP4J.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/spring-webmvc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/spring.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="standard.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/standard.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="taglibs-log.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/taglibs-log.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xfire-aegis-1.2.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/xfire-aegis-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xfire-core-1.2.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/xfire-core-1.2.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-codec-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/commons-httpclient-3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/commons-lang3-3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-lang3-3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.1.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fluent-hc-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/fluent-hc-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/httpclient-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-cache-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/httpclient-cache-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/httpcore-4.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.3.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/httpmime-4.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/jcifs-1.3.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/jcifs-1.3.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/modbus4J.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/modbus4J.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-3.1.8-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/mysql-connector-java-3.1.8-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="war/WEB-INF/lib/RXTXcomm.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/war/WEB-INF/lib/RXTXcomm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
